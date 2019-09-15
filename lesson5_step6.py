@@ -5,7 +5,7 @@ import time
 
 
 link = "http://suninjuly.github.io/huge_form.html"
-browser = webdriver.Chrome(executable_path=r'C:\chromedriver\chromedriver.exe')
+browser = webdriver.Chrome()
 try:
 
     browser.get(link)
