@@ -1,6 +1,5 @@
 from selenium.webdriver.common.by import By
 from selenium import webdriver
-import selenium
 import time
 
 
